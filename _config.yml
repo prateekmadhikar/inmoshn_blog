@@ -1,10 +1,9 @@
 # Site settings
 title: InMōshn
-email: your-email@yourdomain.com
 copyright_name: InMōshn
 description: "This blog will be regularly updated with updates from the team behind InMōshn regarding your next mode of personal tranportation."
-baseurl: "/inmoshn_website/blog"
-url: "https://prateekmadhikar.github.io/inmoshn_website"
+baseurl: ""
+url: "http://blog.inmoshn.com"
 
 # Google Analytics
 # To enable google analytics, uncomment below line with a valid Google Tracking ID
