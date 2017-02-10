@@ -3,6 +3,7 @@ layout:     post
 title:      "InMōshn Website Launch!"
 date:       2017-01-16 12:00:00
 author:     "Prateek Madhikar"
+header-img: "img/2017-01-16-website-launch/website_launch.jpg"
 ---
 
 <h4>TL;DR: We finalized our name and launched our website!</h4>
