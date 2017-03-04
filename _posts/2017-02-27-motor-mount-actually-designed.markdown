@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      "Mechanical: Completed"
-date:       2017-01-27 12:00:00
+title:      "Mechanical: Actually Completed Designed"
+date:       2017-02-27 12:00:00
 author:     "Prateek Madhikar"
 ---
 
