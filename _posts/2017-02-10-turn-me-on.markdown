@@ -1,0 +1,21 @@
+---
+layout:     post
+title:      "Turn On, Turn Off"
+date:       2017-02-10 12:00:00
+author:     "Darshak Patel"
+---
+
+<h4>TL;DR: Electrical system complete with addition of mechanical relay and low-amp switch.</h4>
+
+---
+
+<h3>Power Switch for Entire Board System</h3>
+<p>A key problem with the turn-on of our speed controller was solved. Since there was no power switch for the system, connecting the battery to the speed controller resulted in a massive initial spark, due to the high current draw in charging large capacitors. While a switch would be the simplest solution, it was not the most appropriate solution as high-rated ampere switches (60+ amps) are quite expensive and defeat the purpose of our affordable, multi-board solution. A cheap alternative solution was found which involved using a low-amp switch and a mechanical relay.</p>
+
+---
+---
+
+<p>That's all for this week! I'll leave you with my favourite video/gif/picture of the week at the end of each blog post as a thank you for reading the blogposts 😄</p>
+
+<p>Beautiful picture showing showing the levels of sunset. <a href="https://www.reddit.com/r/pics/comments/5tdqpw">source</a></p>
+![Levels of Sunset]({{ site.baseurl }}/img/2017-02-10-turn-me-on/sunset-levels.jpg)
