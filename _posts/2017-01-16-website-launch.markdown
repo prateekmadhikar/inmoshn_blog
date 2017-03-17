@@ -27,7 +27,7 @@ header-img: "img/2017-01-16-website-launch/website_launch.jpg"
 ---
 ---
 
-<p>That's all for this week! I'll leave you with my favourite video/gif of the week at the end of each blog post as a thank you for reading the blogposts 😄</p>
+<p>That's all for this week! I'll leave you with my favourite video/gif/picture of the week at the end of each blog post as a thank you for reading the blogposts 😄</p>
 
 <p>Hilarious ad for an animal shelter! My favourite part: The homemade wacky waving arm inflatable tube mangirl at the beginning.</p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-F_8qaQ3DD0" frameborder="0" allowfullscreen></iframe>
