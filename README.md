@@ -1,5 +1,3 @@
-#Clean Blog by Start Bootstrap - Jekyll Version
+## [Blog](http://blog.inmoshn.com/) for my group's fourth year design project in Mechatronics Engineering @ UWaterloo
 
-The official Jekyll version of the Clean Blog theme by [Start Bootstrap](http://startbootstrap.com/).
-
-[Blog](http://blog.inmoshn.com/) for my group's fourth year design project in Mechatronics Engineering @ UWaterloo
+Built with Jekyll using the Clean Blog theme by [Start Bootstrap](http://startbootstrap.com/).
